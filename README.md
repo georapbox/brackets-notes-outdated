@@ -2,6 +2,8 @@
 
 Extension for [Brackets](https://github.com/adobe/brackets) that allows the user to easily add and manage notes.\*
 
+**<ins>NOTE:</ins>** This is an outdated version. There is a new one with Markdown support [here](https://github.com/georapbox/brackets-notes).
+
 \* This small extension was firstly developed for my personal projects' needs but I thought I should share for anyone that might find it useful.
 
 **Tested with Brackets Sprint >=37**
